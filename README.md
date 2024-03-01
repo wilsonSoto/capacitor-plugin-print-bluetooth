@@ -8,15 +8,11 @@ Printer Blueetooth
 npm install capacitor-plugin-print-bluetooth
 npx cap sync
 ```
-## In the build.gradle in the repositories part of your app code you must enter the following code:
+**In the build.gradle in the repositories part of your app code you must enter the following code:**
 
 repositories {
 
-     Google()
-     
-     mavenCentral()
-
-   **maven { url 'https://jitpack.io' }** 
+   maven { url 'https://jitpack.io' }
 }
 
 ## How to Use
