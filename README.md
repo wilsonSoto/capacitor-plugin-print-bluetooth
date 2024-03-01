@@ -13,7 +13,7 @@ npx cap sync
 repositories {
      Google()
      mavenCentral()
-   ##  maven { url 'https://jitpack.io' }
+   **maven { url 'https://jitpack.io' }** 
 }
 
 ## How to Use
