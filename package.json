@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-print-bluetooth",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "This plugin was created with the purpose of being able to print invoices using the mobile device",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
