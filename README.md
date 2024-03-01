@@ -13,6 +13,7 @@ npx cap sync
 repositories {
 
    maven { url 'https://jitpack.io' }
+   
 }
 
 ## How to Use
